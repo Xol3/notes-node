@@ -1,0 +1,20 @@
+Hola, Pancho RojasHola,
+Pancho RojasHola,
+Joe AKA hulkHola,
+${user.username}Hola,
+${user.username} !Hola,
+${user.username} !Hola, macbook!
+Hola, macbook!Hola, macbook!Hola,
+macbookHola,
+macbook!Hola, 
+macbookHola,
+macbook!Hola,
+macbookHola,
+macbook!Hola,
+macbookHola,
+macbookHola,
+macbookHola,
+macbookHola,
+macbookHola,
+yo soy macbook. Tengo 30 de vida
+Hola, yo soy macbook. Tengo 30 de vida
